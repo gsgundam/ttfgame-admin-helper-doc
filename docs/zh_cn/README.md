@@ -8,33 +8,33 @@
 
 点击左侧导航栏中的权限管理可将其展开。
 
-![preview](../img/ttfgame_admin_helper_053.png)
+![preview](../img/ttfgame_doc_img_053.png)
 
 # 2.1 如何管理测试账号？
 
 展开权限管理栏后，点击展开部分中的测试账号进入测试账号页面。
 点击添加按钮打开添加页面，在打开的添加页面中完善信息后点击添加页面最下方的确定按钮即可完成添加。
 
-![preview](../img/ttfgame_admin_helper_055.png)
+![preview](../img/ttfgame_doc_img_055.png)
 
 点击要修改的测试账号操作栏的编辑按钮，在打开的编辑页面中完成信息编辑后点击编辑页面最下方的确定按钮即可完成修改。
 
-![preview](../img/ttfgame_admin_helper_057.png)
+![preview](../img/ttfgame_doc_img_057.png)
 
 点击要删除的测试账号操作栏的删除按钮，在弹出的提示页面中确定即可完成删除。
 
-![preview](../img/ttfgame_admin_helper_059.png)
+![preview](../img/ttfgame_doc_img_059.png)
 
 # 2.2 如何审核开发者？
 
 展开权限管理栏后，点击展开部分中的开发者审核进入开发者审核页面。
 点击要审核的信息操作栏的审核详情按钮进入审核详情页面。通过在该页面改变审核状态的方式来表明审核结果。修改审核状态并填写审核建议后点击审核详情最下方的确定按钮即保存审核结果。
 
-![preview](../img/ttfgame_admin_helper_061.png)
+![preview](../img/ttfgame_doc_img_061.png)
 
 点击要删除的审核信息操作栏的删除按钮，在弹出的提示页面中确定即可完成删除。
 
-![preview](../img/ttfgame_admin_helper_063.png)
+![preview](../img/ttfgame_doc_img_063.png)
 
   <br />
 
@@ -42,7 +42,7 @@
 
 点击左侧导航栏中的CMS管理可将其展开。
 
-![preview](../img/ttfgame_admin_helper_065.png)
+![preview](../img/ttfgame_doc_img_065.png)
 
 ## 3.1 如何管理栏目？
 
@@ -50,15 +50,15 @@
 因栏目管理中会使用到已创建的模型，建议进行栏目管理流程前先进行模型管理。
 点击添加按钮打开添加页面，在打开的添加页面中完善信息后点击添加页面最下方的确定按钮即可完成添加。
 
-![preview](../img/ttfgame_admin_helper_073.png)
+![preview](../img/ttfgame_doc_img_073.png)
 
 点击要修改的栏目操作栏的编辑按钮，在打开的编辑页面中完成信息编辑后点击编辑页面最下方的确定按钮即可完成修改。
 
-![preview](../img/ttfgame_admin_helper_075.png)
+![preview](../img/ttfgame_doc_img_075.png)
 
 点击要删除的栏目操作栏的删除按钮，在弹出的提示页面中确定即可完成删除。
 
-![preview](../img/ttfgame_admin_helper_077.png)
+![preview](../img/ttfgame_doc_img_077.png)
 
 ## 3.2 如何管理内容？
 
@@ -66,30 +66,30 @@
 因内容管理中会使用到已创建的栏目，建议进行内容管理流程前先进行栏目管理。
 点击添加按钮打开添加页面，在打开的添加页面中完善信息后点击添加页面最下方的确定按钮即可完成添加。
 
-![preview](../img/ttfgame_admin_helper_079.png)
+![preview](../img/ttfgame_doc_img_079.png)
 
 点击要修改的内容操作栏的编辑按钮，在打开的编辑页面中完成信息编辑后点击编辑页面最下方的确定按钮即可完成修改。
 
-![preview](../img/ttfgame_admin_helper_081.png)
+![preview](../img/ttfgame_doc_img_081.png)
 
 点击要删除的内容操作栏的删除按钮，在弹出的提示页面中确定即可完成删除。
 
-![preview](../img/ttfgame_admin_helper_083.png)
+![preview](../img/ttfgame_doc_img_083.png)
 
 ## 3.3 如何管理单页？
 
 展开CMS管理栏后，点击展开部分中的单页管理进入单页管理页面。
 点击添加按钮打开添加页面，在打开的添加页面中完善信息后点击添加页面最下方的确定按钮即可完成添加。
 
-![preview](../img/ttfgame_admin_helper_091.png)
+![preview](../img/ttfgame_doc_img_091.png)
 
 点击要修改的单页操作栏的编辑按钮，在打开的编辑页面中完成信息编辑后点击编辑页面最下方的确定按钮即可完成修改。
 
-![preview](../img/ttfgame_admin_helper_093.png)
+![preview](../img/ttfgame_doc_img_093.png)
 
 点击要删除的单页操作栏的删除按钮，在弹出的提示页面中确定即可完成删除。
 
-![preview](../img/ttfgame_admin_helper_095.png)
+![preview](../img/ttfgame_doc_img_095.png)
 
   <br />
 
@@ -97,14 +97,14 @@
 
 点击左侧导航栏中的游戏管理可将其展开。
 
-![preview](../img/ttfgame_admin_helper_103.png)
+![preview](../img/ttfgame_doc_img_103.png)
 
 ## 4.1 如何审核游戏？
 
 展开游戏管理栏后，点击展开部分中的游戏管理进入游戏管理页面。
 点击要审核的游戏操作栏的审核详情按钮进入审核详情页面。通过在该页面改变审核状态的方式来表明审核结果。修改审核状态并填写审核建议后点击审核详情最下方的确定按钮即保存审核结果。
 
-![preview](../img/ttfgame_admin_helper_105.png)
+![preview](../img/ttfgame_doc_img_105.png)
 
 ## 4.2 如何发布或撤回游戏？
 
@@ -112,71 +112,71 @@
 只有审核状态为通过审核的游戏才支持进行发布，审核流程请参阅本使用流程4.1
 审核状态为通过审核的游戏的操作栏会额外增加发布按钮，点击后在弹出的提示页面中确定即可进行游戏发布。
 
-![preview](../img/ttfgame_admin_helper_107.png)
+![preview](../img/ttfgame_doc_img_107.png)
 
 已发布的游戏操作栏中的发布会变为游戏撤回，点击后在弹出的提示页面中确定即可进行游戏撤回。
 
-![preview](../img/ttfgame_admin_helper_109.png)
+![preview](../img/ttfgame_doc_img_109.png)
 
 ## 4.3 如何管理游戏类型？
 
 展开游戏管理栏后，点击展开部分中的类型管理进入类型管理页面。
 点击添加按钮打开添加页面，在打开的添加页面中完善信息后点击添加页面最下方的确定按钮即可完成添加。
 
-![preview](../img/ttfgame_admin_helper_111.png)
+![preview](../img/ttfgame_doc_img_111.png)
 
 点击要修改的类型操作栏的编辑按钮，在打开的编辑页面中完成信息编辑后点击编辑页面最下方的确定按钮即可完成修改。
 
-![preview](../img/ttfgame_admin_helper_113.png)
+![preview](../img/ttfgame_doc_img_113.png)
 
 点击要删除的类型操作栏的删除按钮，在弹出的提示页面中确定即可完成删除。
 
-![preview](../img/ttfgame_admin_helper_115.png)
+![preview](../img/ttfgame_doc_img_115.png)
 
 ## 4.4 如何管理游戏轮播图？
 
 展开游戏管理栏后，点击展开部分中的轮播图管理进入轮播图管理页面。
 点击添加按钮打开添加页面，在打开的添加页面中完善信息后点击添加页面最下方的确定按钮即可完成添加。
 
-![preview](../img/ttfgame_admin_helper_117.png)
+![preview](../img/ttfgame_doc_img_117.png)
 
 点击要修改的轮播图操作栏的编辑按钮，在打开的编辑页面中完成信息编辑后点击编辑页面最下方的确定按钮即可完成修改。
 
-![preview](../img/ttfgame_admin_helper_119.png)
+![preview](../img/ttfgame_doc_img_119.png)
 
 点击要删除的轮播图操作栏的删除按钮，在弹出的提示页面中确定即可完成删除。
 
-![preview](../img/ttfgame_admin_helper_121.png)
+![preview](../img/ttfgame_doc_img_121.png)
 
 ## 4.5 如何管理游戏礼包？
 
 展开游戏管理栏后，点击展开部分中的礼包管理进入礼包管理页面。
 点击添加按钮打开添加页面，在打开的添加页面中完善信息后点击添加页面最下方的确定按钮即可完成添加。
 
-![preview](../img/ttfgame_admin_helper_123.png)
+![preview](../img/ttfgame_doc_img_123.png)
 
 点击要修改的礼包操作栏的编辑按钮，在打开的编辑页面中完成信息编辑后点击编辑页面最下方的确定按钮即可完成修改。
 
-![preview](../img/ttfgame_admin_helper_125.png)
+![preview](../img/ttfgame_doc_img_125.png)
 
 点击要删除的礼包操作栏的删除按钮，在弹出的提示页面中确定即可完成删除。
 
-![preview](../img/ttfgame_admin_helper_127.png)
+![preview](../img/ttfgame_doc_img_127.png)
 
 ## 4.6 如何管理游戏商品？
 
 展开游戏管理栏后，点击展开部分中的商品管理进入商品管理页面。
 点击添加按钮打开添加页面，在打开的添加页面中完善信息后点击添加页面最下方的确定按钮即可完成添加。
 
-![preview](../img/ttfgame_admin_helper_129.png)
+![preview](../img/ttfgame_doc_img_129.png)
 
 点击要修改的商品操作栏的编辑按钮，在打开的编辑页面中完成信息编辑后点击编辑页面最下方的确定按钮即可完成修改。
 
-![preview](../img/ttfgame_admin_helper_131.png)
+![preview](../img/ttfgame_doc_img_131.png)
 
 点击要删除的商品操作栏的删除按钮，在弹出的提示页面中确定即可完成删除。
 
-![preview](../img/ttfgame_admin_helper_133.png)
+![preview](../img/ttfgame_doc_img_133.png)
 
   <br />
 
@@ -184,48 +184,48 @@
 
 点击左侧导航栏中的平台信息可将其展开。
 
-![preview](../img/ttfgame_admin_helper_135.png)
+![preview](../img/ttfgame_doc_img_135.png)
 
 ## 5.1 如何管理平台通知？
 
 展开平台信息栏后，点击展开部分中的平台通知进入平台通知管理页面。
 点击添加按钮打开添加页面，在打开的添加页面中完善信息后点击添加页面最下方的确定按钮即可完成添加。
 
-![preview](../img/ttfgame_admin_helper_137.png)
+![preview](../img/ttfgame_doc_img_137.png)
 
 点击要修改的平台通知操作栏的编辑按钮，在打开的编辑页面中完成信息编辑后点击编辑页面最下方的确定按钮即可完成修改。
 
-![preview](../img/ttfgame_admin_helper_139.png)
+![preview](../img/ttfgame_doc_img_139.png)
 
 ## 5.2 如何处罚开发者？
 
 展开平台信息栏后，点击展开部分中的开发者处罚记录进入开发者处罚管理页面。
 点击添加按钮打开添加页面，在打开的添加页面中完善信息后点击添加页面最下方的确定按钮即可完成添加。
 
-![preview](../img/ttfgame_admin_helper_141.png)
+![preview](../img/ttfgame_doc_img_141.png)
 
 点击要修改的处罚操作栏的编辑按钮，在打开的编辑页面中完成信息编辑后点击编辑页面最下方的确定按钮即可完成修改。
 
-![preview](../img/ttfgame_admin_helper_143.png)
+![preview](../img/ttfgame_doc_img_143.png)
 
 点击要删除的处罚操作栏的删除按钮，在弹出的提示页面中确定即可完成删除。
 
-![preview](../img/ttfgame_admin_helper_145.png)
+![preview](../img/ttfgame_doc_img_145.png)
 
 ## 5.3 如何管理平台？
 
 展开平台信息栏后，点击展开部分中的平台管理进入平台管理页面。
 点击添加按钮打开添加页面，在打开的添加页面中完善信息后点击添加页面最下方的确定按钮即可完成添加。
 
-![preview](../img/ttfgame_admin_helper_147.png)
+![preview](../img/ttfgame_doc_img_147.png)
 
 点击要修改的平台操作栏的编辑按钮，在打开的编辑页面中完成信息编辑后点击编辑页面最下方的确定按钮即可完成修改。
 
-![preview](../img/ttfgame_admin_helper_149.png)
+![preview](../img/ttfgame_doc_img_149.png)
 
 点击要删除的平台操作栏的删除按钮，在弹出的提示页面中确定即可完成删除。
 
-![preview](../img/ttfgame_admin_helper_151.png)
+![preview](../img/ttfgame_doc_img_151.png)
 
   <br />
 
@@ -233,36 +233,36 @@
 
 点击左侧导航栏中的活动管理可将其展开。
 
-![preview](../img/ttfgame_admin_helper_153.png)
+![preview](../img/ttfgame_doc_img_153.png)
 
 ## 6.1 如何管理积分抽奖？
 
 展开活动管理栏后，点击展开部分中的积分抽奖管理进入积分抽奖管理页面。
 点击添加按钮打开添加页面，在打开的添加页面中完善信息后点击添加页面最下方的确定按钮即可完成添加。
 
-![preview](../img/ttfgame_admin_helper_155.png)
+![preview](../img/ttfgame_doc_img_155.png)
 
 点击要修改的积分抽奖信息操作栏的编辑按钮，在打开的编辑页面中完成信息编辑后点击编辑页面最下方的确定按钮即可完成修改。
 
-![preview](../img/ttfgame_admin_helper_157.png)
+![preview](../img/ttfgame_doc_img_157.png)
 
 点击要删除的积分抽奖信息操作栏的删除按钮，在弹出的提示页面中确定即可完成删除。
 
-![preview](../img/ttfgame_admin_helper_159.png)
+![preview](../img/ttfgame_doc_img_159.png)
 
 ## 6.2 如何管理合约？
 
 展开活动管理栏后，点击展开部分中的合约管理进入合约管理页面。
 点击添加按钮打开添加页面，在打开的添加页面中完善信息后点击添加页面最下方的确定按钮即可完成添加。
 
-![preview](../img/ttfgame_admin_helper_161.png)
+![preview](../img/ttfgame_doc_img_161.png)
 
 点击要修改的合约操作栏的编辑按钮，在打开的编辑页面中完成信息编辑后点击编辑页面最下方的确定按钮即可完成修改。
 
-![preview](../img/ttfgame_admin_helper_163.png)
+![preview](../img/ttfgame_doc_img_163.png)
 
 点击要删除的合约操作栏的删除按钮，在弹出的提示页面中确定即可完成删除。
 
-![preview](../img/ttfgame_admin_helper_165.png)
+![preview](../img/ttfgame_doc_img_165.png)
 
   <br />
